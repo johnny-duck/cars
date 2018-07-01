@@ -1,0 +1,48 @@
+#wrapper{
+	
+	width: 500px;
+	height: 250px;
+	margin: 0 auto;
+	border: 3px solid #99b1d8;
+}
+
+.wrapper_el {
+	display: inline;
+	float: left;
+}
+
+.wrapper_el#masini {
+	box-sizing: border-box;
+	width: 30%;
+	height: 100%;
+}
+
+.wrapper_el#descriere {
+	box-sizing: border-box;
+	width: 70%;
+	height: 100%;
+	overflow: auto;
+}
+
+.clear{
+	clear: both;
+}
+
+#carlist {
+	list-style-type: none;
+}
+
+.car_el {
+	padding: 5px;
+}
+
+.car_el:hover {
+	background-color: #b3cef9;
+}
+
+.car_pic {
+	display: inline;
+	float: left;
+	width: 30%;
+}
+

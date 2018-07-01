@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"numar": "B01BUC",
+		"descriere": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec purus ac erat molestie faucibus sit amet non erat. Quisque sit amet tellus nec sem tincidunt semper sit amet sit amet ligula. Nulla facilisi. Donec ex lorem, placerat a porttitor non, tristique eu ligula. Aenean malesuada ac lacus quis dictum. Aenean suscipit eget sapien at faucibus. In sit amet accumsan lacus. Morbi nec pharetra enim, id laoreet est.",
+		"poza": "car_pics/car1.png"
+	},
+	{
+		"id": 2,
+		"numar": "B11PTR",
+		"descriere": "Fusce purus urna, volutpat id varius sed, commodo sit amet arcu. Maecenas suscipit eget ante fringilla viverra. Sed pretium posuere erat. Nullam malesuada est quis tincidunt molestie. Proin ullamcorper neque non auctor mattis. Pellentesque blandit, arcu eget feugiat placerat, elit velit venenatis orci, id pharetra risus nisi ac velit. Donec rhoncus eu ante quis molestie. Pellentesque consequat pharetra leo. Phasellus sodales tincidunt ipsum non ultrices. Nam at leo et nisl lacinia lobortis nec sollicitudin orci. Vivamus congue dignissim nibh et sodales. Suspendisse feugiat quis nibh ut faucibus. Integer eleifend congue vestibulum. Ut non arcu condimentum, pretium urna a, bibendum urna.",
+		"poza": "car_pics/car2.png"
+	},
+	{
+		"id": 3,
+		"numar": "B02SLV",
+		"descriere": "Maecenas pretium auctor lacus eget pretium. Mauris ornare tristique dui, eget fringilla lectus semper et. Integer sollicitudin enim maximus, pharetra ante sit amet, posuere magna. Sed ornare dictum tellus eget gravida. Vivamus libero lectus, sagittis at condimentum sed, fermentum vel leo. Mauris lacinia eu ante pellentesque auctor. Sed pellentesque vel nulla in tincidunt. Sed vestibulum elit eu tellus viverra interdum. Pellentesque hendrerit ultricies tellus, vitae feugiat odio blandit non. Nulla tincidunt pharetra justo, ac fringilla justo. Vestibulum finibus tincidunt odio, et rutrum nisi pretium at. Suspendisse quis eros quam. Nullam porta scelerisque porttitor. Fusce hendrerit dolor id iaculis porttitor. Aliquam pretium fermentum vestibulum. Quisque quis cursus lacus.",
+		"poza": "car_pics/car3.png"
+	},
+	{
+		"id": 4,
+		"numar": "B08BOC",
+		"descriere": "Maecenas pretium auctor lacus eget pretium. Mauris ornare tristique dui, eget fringilla lectus semper et. Integer sollicitudin enim maximus, pharetra ante sit amet, posuere magna. Sed ornare dictum tellus eget gravida. Vivamus libero lectus, sagittis at condimentum sed, fermentum vel leo. Mauris lacinia eu ante pellentesque auctor. Sed pellentesque vel nulla in tincidunt. Sed vestibulum elit eu tellus viverra interdum. Pellentesque hendrerit ultricies tellus, vitae feugiat odio blandit non. Nulla tincidunt pharetra justo, ac fringilla justo. Vestibulum finibus tincidunt odio, et rutrum nisi pretium at. Suspendisse quis eros quam. Nullam porta scelerisque porttitor. Fusce hendrerit dolor id iaculis porttitor. Aliquam pretium fermentum vestibulum. Quisque quis cursus lacus.",
+		"poza": "car_pics/car4.png"
+	},
+	{
+		"id": 5,
+		"numar": "B05XYZ",
+		"descriere": "Fusce purus urna, volutpat id varius sed, commodo sit amet arcu. Maecenas suscipit eget ante fringilla viverra. Sed pretium posuere erat. Nullam malesuada est quis tincidunt molestie. Proin ullamcorper neque non auctor mattis. Pellentesque blandit, arcu eget feugiat placerat, elit velit venenatis orci, id pharetra risus nisi ac velit. Donec rhoncus eu ante quis molestie. Pellentesque consequat pharetra leo. Phasellus sodales tincidunt ipsum non ultrices. Nam at leo et nisl lacinia lobortis nec sollicitudin orci. Vivamus congue dignissim nibh et sodales. Suspendisse feugiat quis nibh ut faucibus. Integer eleifend congue vestibulum. Ut non arcu condimentum, pretium urna a, bibendum urna.",
+		"poza": "car_pics/car5.png"
+	},
+	{
+		"id": 6,
+		"numar": "B99ABC",
+		"descriere": "Maecenas pretium auctor lacus eget pretium. Mauris ornare tristique dui, eget fringilla lectus semper et. Integer sollicitudin enim maximus, pharetra ante sit amet, posuere magna. Sed ornare dictum tellus eget gravida. Vivamus libero lectus, sagittis at condimentum sed, fermentum vel leo. Mauris lacinia eu ante pellentesque auctor. Sed pellentesque vel nulla in tincidunt. Sed vestibulum elit eu tellus viverra interdum. Pellentesque hendrerit ultricies tellus, vitae feugiat odio blandit non. Nulla tincidunt pharetra justo, ac fringilla justo. Vestibulum finibus tincidunt odio, et rutrum nisi pretium at. Suspendisse quis eros quam. Nullam porta scelerisque porttitor. Fusce hendrerit dolor id iaculis porttitor. Aliquam pretium fermentum vestibulum. Quisque quis cursus lacus.",
+		"poza": "car_pics/car7.png"
+	},
+	{
+		"id": 7,
+		"numar": "B03SDA",
+		"descriere": "Maecenas pretium auctor lacus eget pretium. Mauris ornare tristique dui, eget fringilla lectus semper et. Integer sollicitudin enim maximus, pharetra ante sit amet, posuere magna. Sed ornare dictum tellus eget gravida. Vivamus libero lectus, sagittis at condimentum sed, fermentum vel leo. Mauris lacinia eu ante pellentesque auctor. Sed pellentesque vel nulla in tincidunt. Sed vestibulum elit eu tellus viverra interdum. Pellentesque hendrerit ultricies tellus, vitae feugiat odio blandit non. Nulla tincidunt pharetra justo, ac fringilla justo. Vestibulum finibus tincidunt odio, et rutrum nisi pretium at. Suspendisse quis eros quam. Nullam porta scelerisque porttitor. Fusce hendrerit dolor id iaculis porttitor. Aliquam pretium fermentum vestibulum. Quisque quis cursus lacus.",
+		"poza": "car_pics/car8.png"
+	}
+]
